@@ -87,6 +87,10 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+# PyCharm
+.idea/
+.idea
+
 # Rope project settings
 .ropeproject
 .DS_Store
